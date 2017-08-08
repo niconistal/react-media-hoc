@@ -1,6 +1,6 @@
 {
   "name": "react-mq-hoc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React Higher order component that passes media query information to the component",
   "main": "index.js",
   "repository": "git@github.com:niconistal/react-media-hoc.git",
